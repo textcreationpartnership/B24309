@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Horn's proposals, humbly offered to the Honourable House of Commons. Setting for the only true and easie method how to change the coin of this kingdom, both good and bad, and in so doing, to raise the King near 2000000 of moneys, more or less according to what the deficiency of the coin and bad money will amount to, if it was full weight and right standard, which if I do not make good by the permission of this Honorable House, and with 200000 l. to begin with, both for fund, and to defray charges, I dare lose my life, I am so grounded in my project, which is as follows.</title>
+            <author>Horne, John, upholsterer.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24309</idno><idno type="EEBO-CITATION">99885597</idno>
+  <idno type="VID">185370</idno>
+  <idno type="EEBO-PROQUEST">2248538334</idno>
+  
+            <idno type="STC">Wing H2788B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[47]</idno>
+            <idno type="STC">ESTC R224692</idno>
+            <idno type="PROQUEST">ocm99885597</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885597e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185370)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[46] )</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Horn's proposals, humbly offered to the Honourable House of Commons. Setting for the only true and easie method how to change the coin of this kingdom, both good and bad, and in so doing, to raise the King near 2000000 of moneys, more or less according to what the deficiency of the coin and bad money will amount to, if it was full weight and right standard, which if I do not make good by the permission of this Honorable House, and with 200000 l. to begin with, both for fund, and to defray charges, I dare lose my life, I am so grounded in my project, which is as follows.</title>
+                  <author>Horne, John, upholsterer.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Counterfeits and counterfeiting --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Money --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+               <term type="topical_term">Finance, Public --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185370:1"/>
+            <head>HORN's PROPOSALS, Humbly Offered to the Honourable House of Commons.</head>
+            <head type="sub">Setting forth the only true and easie Method how to Change the <hi>Coin</hi> of this Kingdom, both Good and Bad, and in so doing, to Raise the King near <hi>2000000</hi> of Moneys, more or less according to what the Deficiency of the Coin and bad Money will amount to, if it was all full Weight and right Standard, which if I do not make Good by the Permission of this <hi>Honorable House,</hi> and with <hi>20000 l.</hi> to begin with, both for Fund, and to Defray Charges, I dare lose my Life, I am so grounded in my Project, which is as follows.</head>
+            <p>
+               <hi>Imprimis,</hi> THAT there be 3 Mints, and 3 Grand Offices, besides the Offices for the Counties, to wit, One Mint and a Grand Office at <hi>London,</hi> another at <hi>York,</hi> and another at <hi>Exeter,</hi> and more if they can be allow<g ref="char:EOLhyphen"/>ed, or fewer, if there be any Reason to the contrary; but supposing 3. then, I propose these follow<g ref="char:EOLhyphen"/>ing Rules;</p>
+            <p>
+               <hi>First,</hi> To divide <hi>England</hi> and <hi>Wales</hi> into 3 Divisions, for which every Division hath a Mint, and a Grand Office.</p>
+            <p>
+               <hi>Secondly,</hi> THAT every County Change their Moneys distinctly; also that every Parish do the same; and where there are large Parishes, That every Ward Change distinctly, as they shall have Notice given them by a Messenger from the Office of the County, or from the Grand Office of the Division; and that every Parish or Ward (so coming to Change) chuse out such Persons to be with them during the time of their Change, as best knows the Inhabitants of such Parish or Ward, the bet<g ref="char:EOLhyphen"/>ter to discover such as have so Metamorphiz'd the Coin. Having shew'd the Method of Changing; I now come to the Man<g ref="char:EOLhyphen"/>ner or Changing, which is thus;</p>
+            <p>
+               <hi>First,</hi> I'll suppose there may be 2000000 of Moneys False and Deficient to be made Good, if allow'd; I will draw it into the Hands of 400000 Persons; Thus by giving Change for no Summ of false Coin,<note place="margin">
+                  <hi>Note,</hi> That such whose Sums will not amount so high as 5 <hi>l.</hi> and that they may not part from their Moneys at any rate, the King may give them 10 <hi>d.</hi> for every Shil<g ref="char:EOLhyphen"/>ling; and so Tally it as the others, and such as will take such Tal<g ref="char:EOLhyphen"/>ly in Change, or buy the same shall have 2 <hi>d.</hi> in the Shilling Advance, which the o<g ref="char:EOLhyphen"/>ther lost; which in 5 <hi>l.</hi> will be 16 <hi>s.</hi> 8 <hi>d.</hi> for which advance the King will have Buyers enough. Note that if these Mints may be removed from County to County, it will be the ea<g ref="char:EOLhyphen"/>sier for the People.</note> and the Deficiency in the Good under 5 <hi>l.</hi> which will cause People to joyn together, or sell their Moneys to such as have larger Sums, which they may do for a very small Loss, and have Buyers enough, if they have no Friend that they are minded to Joyn with; by doing of which will draw it into those 400000 Hands, before mentioned, if not many fewer. Then give them a Tally for this bad Moneys, and that which the Good wants of Weight in such Sums as they shall desire it: None being given under 5 <hi>l.</hi> and also give them their Tallies, passible in such Counties, as they desire them; provided that County have done, or begun to Change; and for the Remainder of the Good Moneys, give it them in <hi>Mill'd. Moneys.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> How to make this be come all Good to the King, and to Raise him 2000000 of <hi>Moneys</hi> upon it, is thus;</p>
+            <p>
+               <hi>First,</hi> THAT every Tally pass as so much Ready <hi>Moneys,</hi> and that every time it pass in Payment, or is Sold or Lent, there be 2 <hi>d.</hi> deducted out of every Pound for the King, which is to be given to him that Receives the Tally, and Indors'd on the said Tally; and so all along, always making the Receiver of the Tally the Receiver of the King's Tax; and intrusting such Indorsements always in the Hands of him that owns the Tally, until they amount to 20 <hi>s.</hi> and then the Tally to pass no more in Payment, until the 20 <hi>s.</hi> of Indorsments be paid into the Office, and a new Tally given the Owner thereof in Lieu of his o<g ref="char:EOLhyphen"/>ther Tally, that hath so wasted it self 20 <hi>s.</hi> and that the Prior-Tally be struck out: Thus if my Tally was first 5 <hi>l.</hi> in going thro' 24 Hands, it Raiseth 20 <hi>s.</hi> to the King, then in whose hands it lies it be carried to the Office, as I said before, and take a New Tally of 4 <hi>l.</hi> and so on until it be wasted to 20 <hi>s.</hi> then that the Owner thereof Receive in lieu of that Tally, having so wasted it self, 20 <hi>s.</hi> in <hi>Ready Moneys;</hi> and that the <hi>Master</hi> of the said Office be Impower'd to add the 20 <hi>s.</hi> so bought to the next Tally that comes to his Hand to be renew'd, and that he receive 20 <hi>s.</hi> in lieu thereof, which he had before given for the same; and that then the Prior-Tally be discharg'd. This I hope makes it plain, that it will make all this <hi>Moneys</hi> become Good to the King, whe<g ref="char:EOLhyphen"/>ther there be more or less of it, excepting 20 <hi>s.</hi> in every County, which will be the last Tally of every County; so that by conse<g ref="char:EOLhyphen"/>quence, having no Tally left to Charge it upon, it must be the Kings Loss, which will be but 51 <hi>l.</hi> throughout <hi>England</hi> and <hi>Wales.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> It is convenient to give an Example, how these Tallies are to be paid, and how the <hi>Moneys</hi> will be Raised, and the Tally wasted; which to make it more plain, is thus;</p>
+            <p>
+               <hi>Impr. A.</hi> Hath a Tally of 5 <hi>l. A.</hi> pays this Tally to <hi>B.</hi> being indebted to him such a Summ, and gives <hi>B.</hi> also Five <hi>Groats</hi> more than the Tally of 5 <hi>l.</hi> which is Half for the King, and the other Half sunk; which Half for the King <hi>A.</hi> takes care to Indorse upon the Tally; so that <hi>A.</hi> hath lost Five <hi>Groats</hi> by his Tally of 5 <hi>l.</hi> and every time a Tally of 5 <hi>l.</hi> comes into his hands, he loseth Five <hi>Groats</hi> by putting it off.</p>
+            <p>
+               <hi>Note,</hi> That if there was no Tax laid upon this bad <hi>Moneys,</hi> then <hi>A.</hi> would lose but 10 <hi>d. per</hi> time by putting off his Tally, but since a Tax must be Raised, and the bad <hi>Moneys</hi> thrown away, and the Deficiency of the good Coin made good, it is no mat<g ref="char:EOLhyphen"/>ter how great a Tax is laid upon it, 'twill the sooner be over, and the sooner Raise the <hi>Moneys</hi> for the King; and without grudging, by reason it must be throw'd away, one way or other; and there can be no other way found out, so pleasing and advantagious.</p>
+            <p>
+               <hi>Secondly,</hi> To shew how equally this will be Levied, and how easily; for as Cases now stands, the Rich and cunning Men hath ridded this bad <hi>Moneys</hi> out of their Hands, but the poorer Sort of Traders and Tenants cannot get rid of it; which if some such way be not taken to Disperse it again, that every Man may bear a Share of the Loss, according to his Dealings in the World, these poorer Sort of People must all be utterly ruined; but as to shewing how equally it will be Levied, and how easily; Supposing there be 2000000 of this <hi>Moneys;</hi> and it be drawn into 400000 Persons hands, at 5 <hi>l. per</hi> Person; then sup<g ref="char:EOLhyphen"/>pose there may be 6000000 of People to make this Good, every one will contribute according to their Dealings. Suppose I Deal for 100 <hi>l. per Annum,</hi> and no more, if all my Dealings be in Tally, I pay but 14 <hi>s.</hi> towards wasting this Tally of 5 <hi>l.</hi> and towards Raising the King his 2000000 of <hi>Moneys,</hi> and soon proportionably according to his Dealings, for a Tally will thrust it self into the hands of such as are great Dealers; for they will never lie still, till they have spent themselves, Now hoping I have Laid all things so plain and easie, that they may be understood, but if any Objection may arise, I crave Leave to answer to the same; for it is as plain to me as the Alphabet; But it may be supposed, that so Great an Undertaking cannot be seen through at the first sight, which brings me to Subscribe my self,</p>
+            <closer>
+               <signed>Your Honours most Dutiful Servant, And shall ever Pray, as in Duty bound.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Note,</hi> That any Person may return his Tally out of one County into the other, at his pleasure, and make it become Payable any where.</p>
+               <p>
+                  <hi>Note also,</hi> That the King hath but one Receiver in a County, that He pays to; so that the Tax is easily Gathered, for every Man is his own Collector, and his own Taxer; so that he can neither complain that he is too hardly Tax'd, or too severely dealt with by the Collectors; neither can he say he hath no <hi>Moneys</hi> to pay this Tax.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
